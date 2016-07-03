@@ -3,5 +3,8 @@ simple directive to make elements min-height equal to the full window height
 
 Usage
 
-<section full-height >
-</section>
+        <div full-height>
+          content....
+        </div>
+
+
